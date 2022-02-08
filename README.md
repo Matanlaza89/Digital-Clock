@@ -1,6 +1,6 @@
 <h2><u>Welcome to Digital Clock Personal Project using VHDL</u></h2>
 <p>
-This entity creates a digital clock that displays the time with the option to set the time.<br><br>
+This entity creates a digital clock that displays the time with the option to set the time.
 </p>
 <h4><u>Files included:</u></h4>
 <u></u>
